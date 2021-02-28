@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Listeproject</string>
+    <string name="user_name">abir</string>
+    <string name="user_message">message</string>
+    <string-array name="mois">
+        <item>
+            janvier
+        </item>
+        <item>
+            fevrier
+        </item>
+        <item>
+            mars
+        </item>
+        <item>
+            avril
+        </item>
+        <item>
+            mai
+        </item>
+        <item>
+            juin
+        </item>
+        <item>
+            juillet
+        </item>
+        <item>
+            aout
+        </item>
+        <item>
+            septembre
+        </item>
+        <item>
+            janvier
+        </item>
+        <item>
+            janvier
+        </item>
+        <item>
+            janvier
+        </item>
+        <item>
+            janvier
+        </item>
+    </string-array>
+
+</resources>
